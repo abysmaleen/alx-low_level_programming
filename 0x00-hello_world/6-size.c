@@ -1,4 +1,4 @@
-#include <strio.h>
+#include <stdio.h>
 /**
  * main - a program that prints the size of various comp types
  * Return: 0
